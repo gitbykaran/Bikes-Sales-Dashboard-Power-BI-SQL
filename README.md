@@ -4,6 +4,8 @@
 
 This project demonstrates an end-to-end workflow for analyzing bike sales data using SQL and Power BI. The project includes the entire ETL (Extract, Transform, Load) process and culminates in an interactive Power BI dashboard that visualizes key metrics and insights from the dataset.
 
+![dashboard screnshot](https://github.com/user-attachments/assets/50baa2bf-14e2-4230-9946-fcb7a845d767)
+
 ## ETL Process
 
 The ETL process involves the following steps:
